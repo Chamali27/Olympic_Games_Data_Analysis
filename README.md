@@ -1,13 +1,13 @@
 # 🏅 Olympic Games Data Analysis
 
-## 📊 Overview
+## Overview
 This project presents a comprehensive analysis of the **All-time Olympic Games Medal Dataset**, covering both **Summer and Winter Olympic Games**.
 
 The goal is to explore medal performance, participation trends, and country-wise success using an **interactive Power BI dashboard**.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Analyze medal distribution across countries  
 - Compare Summer vs Winter Olympic performance  
 - Identify top-performing nations  
@@ -16,7 +16,7 @@ The goal is to explore medal performance, participation trends, and country-wise
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```
 Olympic_Games_Data_Analysis/
 │
@@ -28,20 +28,21 @@ Olympic_Games_Data_Analysis/
 ├── Dataset - Olympics Games/
 │   ├── (Excel files)
 │
-├── Olympic Games Data Analysis.pdf
+├── Report/
+|    └── Olympic Games Data Analysis.pdf
 │
 └── README.md
 ```
 
 ---
 
-## 📥 Data Source
+## Data Source
 - Wikipedia – All-time Olympic Games Medal Table  
 https://en.wikipedia.org/wiki/All-time_Olympic_Games_medal_table  
 
 ---
 
-## 🧹 Data Preprocessing
+## Data Preprocessing
 - Missing values replaced with 0  
 - Country names standardized using IOC codes  
 - Data structured for Summer & Winter comparison  
@@ -49,9 +50,9 @@ https://en.wikipedia.org/wiki/All-time_Olympic_Games_medal_table
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 
-### 🔹 Key Visualizations
+### Key Visualizations
 - **Total Medals by Season (Bar Chart)** – Compare Summer vs Winter performance  
 - **Medal Type Distribution (Pie Charts)** – Gold, Silver, Bronze proportions  
 - **Medal Distribution by Country (Stacked Chart)** – Country-level comparison  
@@ -61,50 +62,45 @@ https://en.wikipedia.org/wiki/All-time_Olympic_Games_medal_table
 
 ---
 
-## ⚡ Interactivity
+## Interactivity
 - Real-time filtering using slicers  
 - Cross-visual highlighting  
 - Clean and user-friendly layout  
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
-### 🥇 Summer vs Winter Dominance
+### Summer vs Winter Dominance
 - Summer Olympics dominated by USA, China, Russia  
 - Winter Olympics led by Norway and Germany  
 - Some countries perform strongly in both  
 
-### 📊 Medal Distribution
+### Medal Distribution
 - Top countries dominate gold medals  
 - Balanced performers show consistency  
 - Strategic focus improves success  
 
-### 📈 Participation vs Success
+### Participation vs Success
 - More participation → higher medal counts  
 - Some countries show high efficiency  
 - Winter Olympics have concentrated competition  
 
 ---
 
-## 🧠 Tools & Technologies
+## Tools & Technologies
 - Power BI  
 - Microsoft Excel  
 
 ---
 
-## 👥 Contributors
-- Chamali Abeysekara  
-- Hussein Ziyard  
-- Rajintha Lakshani  
+## Contributors
+- Chamali Abeysekara
+- Rajintha Hewanayaka   
+- Hussein Ziyard   
 - Nasir Mohomad  
 
 ---
 
-## 📸 Dashboard Preview
-![Dashboard Screenshot](Dashboard-screenshot/dashboard.png)
-
----
-
-## 📌 Conclusion
+## Conclusion
 This project demonstrates how data visualization can uncover meaningful insights from historical Olympic data and provide an interactive way to explore global performance trends.
